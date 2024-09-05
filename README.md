@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJs, C#, Python, Java, SQL, MySQL, C, C++**
 
-- 📫 How to reach me **marlonoliveira@alunos.utfpr.edu.br**
+- 📫 How to reach me **marlonoliveira@alunos.utfpr.edu.br; marlonprudente@ufpr.br**
 
 - ⚡ Fun fact **I won third place in the national competition of Morganti Ju-jitsu**
 <hr/>
