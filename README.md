@@ -70,6 +70,16 @@
         <img width="12" /> Linux
       </td>
     </tr>
+    <tr>      
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          height="40"
+          alt="vscode logo"
+        />
+        <img width="12" /> Visual Studio Code
+      </td>      
+    </tr>
   </tbody>
 </table>
 <hr/>
@@ -192,6 +202,14 @@
           alt="bash logo"
         />
         <img width="12" /> Bash
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+          height="40"
+          alt="amazonwebservices logo"
+        />
+        <img width="12" /> AWS
       </td>
     </tr>
     <tr>
