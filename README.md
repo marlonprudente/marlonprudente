@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Landis + Gyr](https://www.landisgyr.com.br/)
 
-- 🌱 I’m currently learning **Front-End Frameworks**
+- 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
 - 💬 Ask me about **NodeJs, C#, Python, Java, SQL, MySQL, C, C++**
 
